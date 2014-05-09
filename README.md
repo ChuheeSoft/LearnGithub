@@ -17,3 +17,7 @@ LearnGithub
 
 **git**是一个代码管理工具
 **github**是一个以git为中心的代码托管社区
+
+## 开发流程
+
+参考[开发流程](https://github.com/ChuheeSoft/LearnGithub/wiki/%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B)
