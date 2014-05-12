@@ -11,7 +11,7 @@ LearnGithub
 * [Pro Git](http://git-scm.com/book/zh) //可能被墙，但是这个书是最权威的Git学习资料之一。重点看1/2/3/6章即可。 
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)  
 * [在Github当中使用work flow](http://blog.krdai.info/post/17485259496/github-flow) //可能被墙，这个是github-flow的内容
-
+* [Git Tutorial教学](http://www.slideshare.net/ihower/git-tutorial-13695342) //一个相当不错的关于git的slide，作者ihower是台湾著名的RoR开发者
 
 ## git和github的区别
 
