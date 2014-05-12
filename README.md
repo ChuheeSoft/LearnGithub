@@ -21,3 +21,7 @@ LearnGithub
 ## 开发流程
 
 参考[开发流程](https://github.com/ChuheeSoft/LearnGithub/wiki/%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B)
+
+## 建议前段人员使用的工具
+
+参考[前端工程师建议使用的一些工具](https://github.com/ChuheeSoft/LearnGithub/wiki/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85g%B7)
