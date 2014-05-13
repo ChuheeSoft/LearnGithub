@@ -24,5 +24,5 @@ LearnGithub
 
 ## 建议前端人员使用的工具
 
-参考[前端工程师建议使用的一些工具](https://github.com/ChuheeSoft/LearnGithub/wiki/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85g%B7)
+参考[前端工程师建议使用的一些工具](https://github.com/ChuheeSoft/LearnGithub/wiki/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7)
 
