@@ -1,0 +1,5 @@
+<?php
+
+//ceshi  ...
+
+phpinfo();
